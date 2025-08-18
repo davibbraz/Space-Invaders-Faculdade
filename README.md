@@ -17,3 +17,5 @@ FOLDER=C: <------ MUDE PARA ONDE TENHA FEITO O DOWNLOAD DOS ARQUIVOS
 OBS2 : Para realizar modificações é importante possuir o minGW para compilar e alterar o executavel
 
 OBS3: PARA USAR O MAKEFILE USE O COMANDO MAKE
+
+OBS4: FEITO PARA WINDOWS, NÃO É GARANTIDO QUE FUNCIONE EM LINUX OU MACOS
